@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @F1xxs
 - 👀 I’m interested in Computer Science, especially in Data Science, Machine learning and casual programming
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python, C++, C and JavaScript
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me mishaf1x.ol@gmail.com
 
