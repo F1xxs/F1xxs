@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! 🚀  
 
 ## 👨‍💻 About Me
-- 🎓 First-year Informatics student at TUKE  
+- 🎓 Second-year Informatics student at TUKE  
 - 💡 Passionate about **Computer Science**, with a special interest in **Data Science**, **Machine Learning**, and building useful tools through casual programming  
 - 🌱 Currently sharpening my skills in **Python**, **C++**, **C**, **TypeScript** and **SQL**  
 - 🤝 Open to collaboration on interesting and impactful projects  
